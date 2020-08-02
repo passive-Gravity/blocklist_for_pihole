@@ -1,35 +1,28 @@
 #https://raw.githubusercontent.com/passive-Gravity/blocklist_for_pihole/master/tiktok
 
-api-va.tiktokv.com
-tos-awsin16-up-va.tiktokcdn.com
-gecko16-normal-c-useast1a.tiktokv.com
-sdfp-sg.tiktokv.com
-
-imapi-16.tiktokv.com
-
+p16-va.tiktokcdn.com
 p16-tiktok-va.ibyteimg.com	
 p16-va-tiktok.ibyteimg.com	
-p16-tiktok-sg-h2.ibyteimg.com
-p16-va.tiktokcdn.com
-p16-tiktok-sign-va-h2.ibyteimg.com	
 p16-tiktok-sg.ibyteimg.com
+p16-tiktok-sg-h2.ibyteimg.com
+p16-tiktok-sign-va-h2.ibyteimg.com	
 
-
-pull-rtmp-f1.tiktokcdn.com
-pull-rtmp-l11.tiktokcdn.com	
-pull-cmaf-f16.tiktokcdn.com
-pull-flv-l11.tiktokcdn.com	
-pull-flv-f1-ab.tiktokcdn.com
-pull-hls-f11.tiktokcdn.com
-pull-hls-q5.tiktokcdn.com
 pull-f5.tiktokcdn.com
-pull-hls-f11-ab.tiktokcdn.com
+pull-hls-q5.tiktokcdn.com
 pull-flv-f1.tiktokcdn.com	
 pull-hls-f5.tiktokcdn.com	
-pull-flv-f11.tiktokcdn.com
 pull-hls-w5.tiktokcdn.com
 pull-hls-l1.tiktokcdn.com
+pull-flv-l11.tiktokcdn.com
+pull-rtmp-f1.tiktokcdn.com
+pull-hls-f11.tiktokcdn.com
+pull-flv-f11.tiktokcdn.com
+pull-rtmp-l11.tiktokcdn.com	
+pull-cmaf-f16.tiktokcdn.com
+pull-flv-f1-ab.tiktokcdn.com
+pull-hls-f11-ab.tiktokcdn.com
 
+api-va.tiktokv.com
 api21-va.tiktokv.com
 api21-core-va.tiktokv.com
 api21-core-c-alisg.tiktokv.com
@@ -37,18 +30,22 @@ api21-normal-c-alisg.tiktokv.com
 api21-core-c-useast1a.tiktokv.com
 api21-normal-c-useast1a.tiktokv.com	
 
-api19-core-c-useast1a.tiktokv.com
 api19-core-va.tiktokv.com
-
+api19-core-c-useast1a.tiktokv.com
 
 api16-va.tiktokv.com
+api16-core-va.tiktokv.com
+api16-core-c-alisg.tiktokv.com
 api16-normal-c-alisg.tiktokv.com
 api16-core-c-useast1a.tiktokv.com	
-api16-normal-c-useast1a.tiktokv.com	
-api16-core-c-alisg.tiktokv.com
 api16-core-c-useast1a.tiktokv.com
-api16-core-va.tiktokv.com
+api16-normal-c-useast1a.tiktokv.com	
 
-webcast.tiktokv.com
-sf16-muse-va.ibytedtos.com
 v19.muscdn.com
+sdfp-sg.tiktokv.com
+webcast.tiktokv.com
+sdfp-sg.tiktokv.com
+imapi-16.tiktokv.com
+sf16-muse-va.ibytedtos.com
+tos-awsin16-up-va.tiktokcdn.com
+gecko16-normal-c-useast1a.tiktokv.com
