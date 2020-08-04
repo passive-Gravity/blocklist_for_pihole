@@ -7,6 +7,7 @@ p16-sg-default.akamaized.net
 p16-tiktok-sg-h2.ibyteimg.com
 p16-tiktok-sign-va-h2.ibyteimg.com	
 pull-f5.tiktokcdn.com
+pull-q5.tiktokcdn.com
 pull-hls-q5.tiktokcdn.com
 pull-flv-f1.tiktokcdn.com	
 pull-hls-f5.tiktokcdn.com	
@@ -18,7 +19,9 @@ pull-hls-f11.tiktokcdn.com
 pull-flv-f11.tiktokcdn.com
 pull-rtmp-l11.tiktokcdn.com	
 pull-cmaf-f16.tiktokcdn.com
+pull-rtmp-f11.tiktokcdn.com
 pull-flv-f1-ab.tiktokcdn.com
+pull-hls-f5-ab.tiktokcdn.com
 pull-hls-f11-ab.tiktokcdn.com
 api-va.tiktokv.com
 api21-va.tiktokv.com
